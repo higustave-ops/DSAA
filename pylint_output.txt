@@ -1,0 +1,7 @@
+user@user-Latitude-E7470:~/Documents/DSAA PROJECT$ pylint EXERCICE\ \ ORDERING/
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.85/10, +0.15)
+
+user@user-Latitude-E7470:~/Documents/DSAA PROJECT$ 
+
